@@ -169,7 +169,7 @@ d3.csv(url)
 					? ""
 					: " <a href=" +
 					  d.DOI +
-					  ' target="_blank">[]</a>',
+					  ' target="_blank">[LINK]</a>',
 				"<br>",
 			].join("")
 		);
