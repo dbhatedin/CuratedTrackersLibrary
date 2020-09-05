@@ -1,4 +1,4 @@
-const url = "geonetworks1.csv";
+const url = "trackersdata.csv";
 
 const taxonomy = {
 	geography_representation: ["mapped", "distorted", "abstract"],
