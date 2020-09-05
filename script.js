@@ -167,9 +167,9 @@ d3.csv(url)
 				")",
 				d.DOI == ""
 					? ""
-					: " <a href=https://doi.org/" +
+					: " <a href=" +
 					  d.DOI +
-					  ' target="_blank">[DOI Link]</a>',
+					  ' target="_blank">[]</a>',
 				"<br>",
 			].join("")
 		);
