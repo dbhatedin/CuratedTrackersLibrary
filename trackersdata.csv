@@ -1,0 +1,12 @@
+Publication Year,Author,Title,Publication Title,DOI,image,tracker_type
+2020,Crisis Watch,Crisis Watch Tracker,CrisisWatch global conflict tracker,https://www.crisisgroup.org/crisiswatch#,CrisisWatch,ceasefire
+2020,GSOD,Global State of Democracy,Global State of Democracy Indices,https://www.idea.int/gsod-indices/#/indices/world-map?covid19=1,GSOD,ceasefire
+2020,ICNL,COVID-19 Civic Freedom Tracker,COVID-19 Civic Freedom Tracker,https://www.icnl.org/covid19tracker,civictracker,ceasefire
+2020,ACLED,ACLED Covid-19 disorder tracker,ACLED covid-19 disorder tracker,https://acleddata.com/analysis/covid-19-disorder-tracker,acledcdt,ceasefire
+2020,JHUCSSE,COVID-19 Dashboard JHUCSSE,Coronavirus Resource Centre JHU,https://coronavirus.jhu.edu/map.html,johnhopkins,health
+2020,Worldometer,COVID-19 Worldometer stats,Worldometer coronavirus,https://www.worldometers.info/coronavirus/,worldometer,health
+2020,PolicyForum,COVID-19 Interactive Tool for Pacific,The Asia and Pacific Policy Society Policy Forum - Mapping the Pacific COVID-19 response,https://www.policyforum.net/pacific-covid-19-map/,policyforum,health
+2020,GenevaCall,COVID-19 Response Monitoring Tool,Geneva Call COVID19 Armed NonState Actors Response Monitor,https://www.genevacall.org/covid-19-armed-non-state-actors-response-monitor/,genevacall,ceasefire
+2020,MAAPSS,Mapping Actors and Alliances Project – South Sudan,Mapping Actors and Alliances Project – South Sudan,https://maapss.org/,maapss,ceasefire
+2020,ECDCEurope,European Centre for Disease Prevention and Control-An agency of the European Union,European Centre for Disease Prevention and Control-An agency of the European Union,https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,ecdc,health
+2020,DemoSample,Demo Example,World Peace,https://www.helloworld.com,helloworld,other
