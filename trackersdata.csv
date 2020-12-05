@@ -36,7 +36,7 @@ Publication Year,Author,Title,Publication Title,DOI,image,tracker_type
 2020,	Civicus,	 Monitor Tracking Civic Space,	 Monitor Tracking Civic Space,	https://monitor.civicus.org/COVID19/,	CIVICUS,	Civic_space 			
 2020,	HerokuappOlivierLejeune,Coronavirus Containment Measures, Coronavirus Containment Measures Heroku app - Olivier Lejeune, 	https://coronavirusmeasures.herokuapp.com,	CCM,	health 			
 2020,	PrisonInsider, 	Coronavirus: Prison Fever - PrisonInsider,	Coronavirus: Prison Fever,	https://www.prison-insider.com/en/articles/coronavirus-la-fievre-des-prisons,	CPF,	health			
-2020,	UN Women, 	Covid-19 and Gender Monitor - UN Women, 	Covid-19 and Gender Monitor, 	https://data.unwomen.org/COVID19,	UNGender,	health, other 			
+2020,	UN Women, 	Covid-19 and Gender Monitor - UN Women, 	Covid-19 and Gender Monitor, 	https://data.unwomen.org/COVID19,	UNGender,	health_other 			
 
 
 
