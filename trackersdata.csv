@@ -1,35 +1,35 @@
 Publication Year,Author,Title,Publication Title,DOI,image,tracker_type
-2020,Crisis Watch,Crisis Watch Tracker,CrisisWatch global conflict tracker,https://www.crisisgroup.org/crisiswatch#,CrisisWatch,ceasefire
-2020,GSOD,Global State of Democracy,Global State of Democracy Indices,https://www.idea.int/gsod-indices/#/indices/world-map?covid19=1,GSOD,ceasefire
-2020,ICNL,COVID-19 Civic Freedom Tracker,COVID-19 Civic Freedom Tracker,https://www.icnl.org/covid19tracker,civictracker,ceasefire
-2020,ACLED,ACLED Covid-19 disorder tracker,ACLED covid-19 disorder tracker,https://acleddata.com/analysis/covid-19-disorder-tracker,acledcdt,ceasefire
-2020,JHUCSSE,COVID-19 Dashboard JHUCSSE,Coronavirus Resource Centre JHU,https://coronavirus.jhu.edu/map.html,johnhopkins,health
-2020,Worldometer,COVID-19 Worldometer stats,Worldometer coronavirus,https://www.worldometers.info/coronavirus/,worldometer,health
-2020,PolicyForum,COVID-19 Interactive Tool for Pacific,The Asia and Pacific Policy Society Policy Forum - Mapping the Pacific COVID-19 response,https://www.policyforum.net/pacific-covid-19-map/,policyforum,health
-2020,GenevaCall,COVID-19 Response Monitoring Tool,Geneva Call COVID19 Armed NonState Actors Response Monitor,https://www.genevacall.org/covid-19-armed-non-state-actors-response-monitor/,genevacall,ceasefire
-2020,MAAPSS,Mapping Actors and Alliances Project – South Sudan,Mapping Actors and Alliances Project – South Sudan,https://maapss.org/,maapss,ceasefire
-2020,ECDCEurope,European Centre for Disease Prevention and Control-An agency of the European Union,European Centre for Disease Prevention and Control-An agency of the European Union,https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,ecdc,health
-2020,DemoSample,Demo Example,World Peace,https://www.helloworld.com,helloworld,other
-2020,Apple Maps,Covid19 Mobility Trends,Maps Covid19 Mobiilty Trends Report,https://covid19.apple.com/mobility,AppleMobility,other 	
+2020, Crisis Watch,Crisis Watch Tracker,CrisisWatch global conflict tracker,https://www.crisisgroup.org/crisiswatch#,CrisisWatch,ceasefire
+2020, GSOD,Global State of Democracy,Global State of Democracy Indices,https://www.idea.int/gsod-indices/#/indices/world-map?covid19=1,GSOD,ceasefire
+2020, ICNL,COVID-19 Civic Freedom Tracker,COVID-19 Civic Freedom Tracker,https://www.icnl.org/covid19tracker,civictracker,ceasefire
+2020, ACLED,ACLED Covid-19 disorder tracker,ACLED covid-19 disorder tracker,https://acleddata.com/analysis/covid-19-disorder-tracker,acledcdt,ceasefire
+2020, JHUCSSE,COVID-19 Dashboard JHUCSSE,Coronavirus Resource Centre JHU,https://coronavirus.jhu.edu/map.html,johnhopkins,health
+2020, Worldometer,COVID-19 Worldometer stats,Worldometer coronavirus,https://www.worldometers.info/coronavirus/,worldometer,health
+2020, PolicyForum,COVID-19 Interactive Tool for Pacific,The Asia and Pacific Policy Society Policy Forum - Mapping the Pacific COVID-19 response,https://www.policyforum.net/pacific-covid-19-map/,policyforum,health
+2020, GenevaCall,COVID-19 Response Monitoring Tool,Geneva Call COVID19 Armed NonState Actors Response Monitor,https://www.genevacall.org/covid-19-armed-non-state-actors-response-monitor/,genevacall,ceasefire
+2020, MAAPSS,Mapping Actors and Alliances Project – South Sudan,Mapping Actors and Alliances Project – South Sudan,https://maapss.org/,maapss,ceasefire
+2020, ECDCEurope,European Centre for Disease Prevention and Control-An agency of the European Union,European Centre for Disease Prevention and Control-An agency of the European Union,https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,ecdc,health
+2020, DemoSample,Demo Example,World Peace,https://www.helloworld.com,helloworld,other
+2020, Apple Maps,Covid19 Mobility Trends,Maps Covid19 Mobiilty Trends Report,https://covid19.apple.com/mobility,AppleMobility,other 	
 2020,CCCSLCov19, Complexity Science Hub COVID-19 Control Strategies List (CCCSL),Complexity Science Hub COVID-19 Control Strategies List (CCCSL),http://covid19-interventions.com,CCCSL,other 			
-2020,COVID-19 Government Response Event Dataset (CoronaNet v1.0),CoronaNet Research Project,CoronaNet Research, https://www.coronanet-project.org/,CoronaNet,other  
-2020,COVID-AMP,Visualising the impact of policies on COVID respone,COVID Analysis and Mapping of Policies (AMP),https://covidamp.org,	COVIDAMP,	other 			
-2020,COBAP,	Covid Border Accountability Project, COVID Border Accountability Project COBAP,https://covidborderaccountability.org/index.html,COBAP,other 			
+2020, COVID-19 Government Response Event Dataset (CoronaNet v1.0),CoronaNet Research Project,CoronaNet Research, https://www.coronanet-project.org/,CoronaNet,other  
+2020, COVID-AMP,Visualising the impact of policies on COVID respone,COVID Analysis and Mapping of Policies (AMP),https://covidamp.org,	COVIDAMP,	other 			
+2020, COBAP,	Covid Border Accountability Project, COVID Border Accountability Project COBAP,https://covidborderaccountability.org/index.html,COBAP,other 			
 2020,	FoodPolicyERT,Exports Restrictions Tracker,	International Food Policy Research Institute,	https://www.ifpri.org/project/covid-19-food-trade-policy-tracker,	ERT,other 			
 2020,	CPRPTableau, International Food Policy Research Institute,Covid-19 Policy Response (CPR) Portal	Tableau Public, 	https://public.tableau.com/profile/ifpri.td7290#!/vizhome/CPRPORTAL/Overview?publish=yes,	CPRP,	other 			
-2020,UrbanInstitute,Covid -19 Resource Tracker: A Guide to State and Local Responses,Urban Institute Health and Policy Centre,https://www.urban.org/policy-centers/health-policy-center/projects/covid-19-resource-tracker-guide-state-and-local-responses,	HealthPolicyCentre,	health 			
-2020,SexGenderCovid-19Project,	The COVID-19 Sex-Disaggregated Data Tracker,	The COVID-19 Sex-Disaggregated Data Tracker,	https://globalhealth5050.org/the-sex-gender-and-covid-19-project/,	SexGenderCovid,	health 			
-2020,ACAPS,	COVID19 Government Measures Dataset,	COVID19 Government Measures Dataset,	https://www.acaps.org/projects/covid19/data,	ACAPS,	other 			
+2020, UrbanInstitute,Covid -19 Resource Tracker: A Guide to State and Local Responses,Urban Institute Health and Policy Centre,https://www.urban.org/policy-centers/health-policy-center/projects/covid-19-resource-tracker-guide-state-and-local-responses,	HealthPolicyCentre,	health 			
+2020, SexGenderCovid-19Project,	The COVID-19 Sex-Disaggregated Data Tracker,	The COVID-19 Sex-Disaggregated Data Tracker,	https://globalhealth5050.org/the-sex-gender-and-covid-19-project/,	SexGenderCovid,	health 			
+2020, ACAPS,	COVID19 Government Measures Dataset,	COVID19 Government Measures Dataset,	https://www.acaps.org/projects/covid19/data,	ACAPS,	other 			
 2020,	CIPESADisInfoTracker, Centre for Human Rights University of Pretoria Article 19,  Global Partnership Digital Protege QV 	Disinformation Tracker	Disinformation Tracker,	https://www.disinformationtracker.org,	DisInfo,	other 			
 2020,	ENGAGER, European Energy Poverty Network	COVID-19 Household Energy Services Relief Measures,	COVID-19 Household Energy Services Relief Measures,	https://www.google.com/maps/d/viewer?mid=1YuMvEJAuXItOW_xcg-gi8Fyi7_r58C3d&ll=16.22155428413424%2C-2.2318056149070884&z=2,ENGAGER,other 			
 2020,	Boston University School of Public Health Johns Hopkins University,	Health Intervention Tracking for COVID-19 (HIT-COVID),	Health Intervention Tracking for COVID-19 (HIT-COVID),	https://akuko.io/post/covid-intervention-tracking,HITCOVID,health 			
 2020,	Internaional Growth Centre (IGC),	IGC Covid-19 Policy Response Dashboard,	Covid-19 in Developing Countries,	https://www.theigc.org/covid-19/tracker/,	IGC,other 			
-2020,ILOSocProcCov19,	International Labour Organisation (ILO)	Social Protection Response to Covid-19 Crisis Around the World, 	ILO Social Protection,	https://www.social-protection.org/gimi/ShowWiki.action?id=3417,	ILOSP,	other 			
+2020, ILOSocProcCov19,	International Labour Organisation (ILO)	Social Protection Response to Covid-19 Crisis Around the World, 	ILO Social Protection,	https://www.social-protection.org/gimi/ShowWiki.action?id=3417,	ILOSP,	other 			
 2020,	Ashish Joshi,	SMAART RapidTracker,	SMAART RapidTracker,	https://www.smaartrapidtracker.org/dashboard-world/,	SMAART,	health 			
 2020,	ONEHealth,	ONE Africa Covid Tracker,	How is COVID-19 Affecting Africa?,	https://www.one.org/africa/about/policy-analysis/covid-19-tracker/,	ONE,	health_other 			
 2020,	Opportunity_Insight, 	The Opportunity Insights Economic Tracker,	The Opportunity Insights Economic Tracker,	https://tracktherecovery.org,	OppIn,	other 			
-2020,UNDPCovTracker,COVID-19 Global Gender Response Tracker, 	UN COVID-19 Global Gender Response Tracker, 	https://data.undp.org/gendertracker/,	UNDP,	health_other 			
-2020,WeeklyEconIndexWEI,	Federal Reserve Bank of New York Weekly Economic Index (WEI),	The Weekly Economic Index (WEI),	https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive,	WEI,	other 			
+2020, UNDPCovTracker,COVID-19 Global Gender Response Tracker, 	UN COVID-19 Global Gender Response Tracker, 	https://data.undp.org/gendertracker/,	UNDP,	health_other 			
+2020, WeeklyEconIndexWEI,	Federal Reserve Bank of New York Weekly Economic Index (WEI),	The Weekly Economic Index (WEI),	https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive,	WEI,	other 			
 2020,	Vera Institute of Justice,	Vera Institute of Justice Prison Data, 	Use this Data to Hold your Local Jail Accountable, 	https://www.vera.org/blog/covid-19-1/use-this-data-to-hold-your-local-jail-accountable-during-the-pandemic,	Vera,	health 			
 2020,	IIASA, 	COVID-19: Visualizing regional socioeconomic indicators for Europe,	COVID-19: Visualizing regional socioeconomic indicators for Europe,	https://covid19.iiasa.ac.at/interactive/,	IIASA,	other 			
 2020,	Canadian Institute for Health Information,COVID-19 Intervention Timeline Canada, 	COVID-19 Intervention Timeline Canada, 	https://www.cihi.ca/en/covid-19-intervention-timeline-in-canada,	CANADA,	health_other 			
@@ -53,4 +53,7 @@ Publication Year,Author,Title,Publication Title,DOI,image,tracker_type
 2020,	ReporterswithoutBorders, Reporters without Borders #Tracker_19,	#Tracker_19,	https://rsf.org/en/tracker19-Coronavirus-Covid19,	RWB,	civic_space 			
 2020,	Dept of Economics Univ of California Berkeley, Berkeley Policy Responses to Coronavirus Pandemic,	Making Sense of the U.S Economic Policy Response to the Coronavirus Pandemic, 	https://messertodd.github.io/coronavirus-policy-response/,	Berkely,	health_other 			
 2020,	Our World in Data, 	Daily new Confirmed COVID-19 cases per million peole,	Daily new Confirmed COVID-19 cases per million peole, 	https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&country=IND~USA~GBR~CAN~DEU~FRA&region=World&casesMetric=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc,	OurWorld, 	health			
+2020,	CoronaWatchColumbia,	Corona Tracker Columbia,	Corona Tracker Columbia,	https://www.coronatracker.com/country/colombia/,	coronacol1,	health			
+
+
 
