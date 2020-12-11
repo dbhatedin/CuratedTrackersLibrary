@@ -57,7 +57,13 @@ Publication Year,Author,Title,Publication Title,DOI,image,tracker_type
 2020,	OurWorldinData,	Our World in Data COVID-19 dataset,	Coronavirus Pandemic Data Explorer Our World in Data COVID-19 dataset,	https://ourworldindata.org/coronavirus,	covidexplorer,	health			
 2020,	MapTrackerColumbia,	Colombia Coronavirus cases map tracker,	Colombia Coronavirus cases map tracker,	https://visalist.io/emergency/coronavirus/colombia-country,	columbiatracker,	health			
 2020,	IMF_POLICYCOVID_TRACKER,	IMF POLICY RESPONSES TO COVID-19 TRACKER,	IMF POLICY RESPONSES TO COVID-19 TRACKER,	https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19,	imfpolicycovid,	policy			
-
+2020,	ODI_COVID19_TRACKER,	ODI Covid19 tracking local humanitarian action,	ODI Covid19 tracking local humanitarian action,	https://www.odi.org/covid19-tracking-local-humanitarian-action/,	ODICovidTracker,	policy			
+2020,	PeaceTechLabViolenceCovidTracker,	PeaceTech lab covid-19 violence tracker,	PeaceTech Lab COVID-19 Violence Tracker,	https://www.covid19violence.org/,	peacelabcovtrack,	conflict_other			
+2020,	ScotCovid,	Scotland covid tracker, 	Scotland covid tracker, 	https://smazeri.shinyapps.io/Covid19_Scotland/,	scotlandcov19,	health			
+2020,	AccuweatherUKCoronaTracker,	Coronavirus COVID-19 Tracker UK Accuweather,	Accuweather UK covid tracker, 	https://www.accuweather.com/en/gb/national/covid-19,  	accuweather,	health			
+2020,	HealthFoundationCovidPolicy, 	Health Foundation Covid Policy Tracker,	 Health Foundation  Covid-19 healthcare policy tracker,	https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker,	HFCovPolicyTracker,	health_policy			
+2020,	UKCORONAUPD,	GOV.UK  Coronavirus (COVID-19) in the UK Summary Daily Updates,	 UK tracker Coronavirus (COVID-19) in the UK Summary Daily Updates,	https://coronavirus.data.gov.uk/,	UKCOVIDUpd,	health	
+2020,	NYTIMESCOVID,	New York Times Coronavirus World Map: Tracking the Global Outbreak,	New York Times Coronavirus World Map: Tracking the Global Outbreak,	https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html, 	nytimescorona,	health			
 
 
 
