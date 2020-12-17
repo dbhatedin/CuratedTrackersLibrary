@@ -1,16 +1,20 @@
 const url = "trackersdata.csv";
 
 const taxonomy = {
-	tracker_type: ["ceasefire", "health", "other"],
+	tracker_type: ["conflict", "health", "civic_space", "social_policy", "economy", "other"],
 };
 
 const facets = Object.keys(taxonomy);
 
 const datatypes = [
 	// 1/ Links
-	"directed_links",
-	"undirected_links",
-	"uncertain_additional_attributes",
+	"API",
+	"data_documents",
+	"text_documents",
+	"visualization",
+	"country_level",
+	"regional",
+	"global",
 ];
 
 const container = d3.select(".grid");
@@ -139,29 +143,30 @@ d3.csv(url)
 		div.append("h2").text((d) => d.Title);
 		div.append("span").html((d) =>
 			[
-				d.Author,
+				d.Keyword,
 				". <i>",
 				d["Publication Title"],
 				"</i> (",
-				d["Publication Year"],
+				d["Year"],
 				")",
-				d.DOI == ""
+				d.Link == ""
 					? ""
-					: " <a href=" +
-					  d.DOI +
-					  ' target="_blank">[LINK TO SITE]</a>',
+					: " <a href=https://doi.org/" +
+					  d.Link +
+					  ' target="_blank">[DOI Link]</a>',
 				"<br>",
 			].join("")
 		);
 		var tags = div.append("div").style("margin-top", "7px");
 
-		// add tags on technique cards
+		//add tags on technique cards
 		facets.forEach(function (facet) {
 			tags.append("div")
 				.classed("tag", true)
 				.classed(facet, true)
 				.html((d) => d[facet]);
 		});
+
 	})
 	.then(function () {
 		imagesLoaded(".grid", function () {

@@ -173,13 +173,7 @@ div.checkbox-container {
 	}
 }
 
-#select_geography_representation label,
-#select_node_representation label,
-#select_link_representation label,
-#select_interactivity label {
-	width: 88px;
-}
 
-#select_composition label {
+#select_tracker_type label {
 	width: 138px;
 }
