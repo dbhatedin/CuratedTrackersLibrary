@@ -151,9 +151,9 @@ d3.csv(url)
 				")",
 				d.Link == ""
 					? ""
-					: " <a href=https://doi.org/" +
+					: " <a href=" +
 					  d.Link +
-					  ' target="_blank">[DOI Link]</a>',
+					  ' target="_blank">[LINK TO SITE]</a>',
 				"<br>",
 			].join("")
 		);
@@ -189,7 +189,13 @@ function filterData(d, filters, dataFilters) {
 			// facet: fil[0]
 			// selected: fil[1]
 			// check if either array is empty or category is selected
-			return fil[1].length == 0 || fil[1].indexOf(d[fil[0]]) != -1;
+		
+			var trackerType = d[fil[0]];
+			var categories = trackerType.split(" ");
+			var res = fil[1].some(item => categories.includes(item));
+				
+			//return fil[1].length == 0 || fil[1].indexOf(d[fil[0]]) != -1;
+			return fil[1].length == 0 || fil[1].some(item => categories.includes(item));
 		}) &&
 		dataFilters.every(function (fil) {
 			return d[fil] == "yes";
